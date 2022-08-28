@@ -1,5 +1,5 @@
 # ace
-code editor powered by Ace
+cgi remote file editor powered by Ace
 
 # pypi
 [https://pypi.org/project/aceditor/](https://pypi.org/project/aceditor/)
