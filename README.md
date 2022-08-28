@@ -1,7 +1,7 @@
 # ace
 cgi remote file editor powered by Ace
 
-# pypi
+# source
 [https://pypi.org/project/aceditor/](https://pypi.org/project/aceditor/)
 
 # main
